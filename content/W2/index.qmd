@@ -44,6 +44,8 @@ Lessons and labs:
 2. [Lab: Pandas Summary Statistics](./M2/lessons/02_pd_agg.ipynb)
 3. [Lab: Pandas Function application](./M2/lessons/03_pd_function_application.ipynb)
 4. [Lab: Bike Sharing](./M2/lessons/04_lab_bike_sharing.ipynb)
+5. [Lab: Pandas Pivot and Melt (Reshaping)](./M2/lessons/05_pd_reshape.ipynb)
+6. [Lab: Pandas Timeseries Data](./M2/lessons/06_pd_timeseries.ipynb)
 
 #### Exercises
 
